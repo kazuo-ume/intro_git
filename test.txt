@@ -3,3 +3,4 @@ Gitのお勉強。
 テスト
 Git status
 Git diff
+これが変更分
