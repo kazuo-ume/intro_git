@@ -4,3 +4,4 @@ Gitのお勉強。
 Git status
 Git diff
 これが変更分
+Aaa
