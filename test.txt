@@ -7,3 +7,4 @@ Git diff
 Aaa
 Git commit --amend
 git merge
+コンフリクト main
