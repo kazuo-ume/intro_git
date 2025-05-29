@@ -1,4 +1,4 @@
-Gitのお勉強。
+Gitのお勉強。main
 基本的なことをお勉強。
 テスト
 Git status
