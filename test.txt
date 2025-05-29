@@ -1,6 +1,6 @@
 Gitのお勉強。main
 基本的なことをお勉強。
-テスト
+テスト feature
 Git status
 Git diff
 これが変更分
