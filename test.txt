@@ -6,3 +6,4 @@ Git diff
 これが変更分
 Aaa
 Git commit --amend
+コンフリクトfeature
