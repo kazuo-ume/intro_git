@@ -1,9 +1,14 @@
-Gitのお勉強。
+Gitのお勉強。main
 基本的なことをお勉強。
-テスト
+テスト feature
 Git status
 Git diff
 これが変更分
 Aaa
 Git commit --amend
 git merge
+コンフリクトfeature
+Pull リク
+Flowのお勉強
+
+
